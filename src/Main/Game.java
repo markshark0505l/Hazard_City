@@ -12,6 +12,8 @@ public class Game {
 	 * "HUGE SUCCESS!"
 	 **/
 	
+	//MAIN PRINCIPAL INICIAR APLICACION
+	//Iniciar esta clase como Java Aplication
 	public static void main(String[] args) {		
 
 		
