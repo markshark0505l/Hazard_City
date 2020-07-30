@@ -1,0 +1,34 @@
+SI DE VERDAD QUIERES PERDER TU VALIOSO TIEMPO EN ESTA MIERDA AQUI ESTAN LAS INSTRUCCIONES:
+
+(Si en el modo arcade el pc te pega tirones tienes una mierda de procesador y punto, en mi PC va bien, para nada es por que esta optimizado con el culo)
+
+Obviamente la barra de salud roja al lado del jeto del personaje es tu salud, 
+el contador de debajo cuenta los malotes kas matao, con esos puntos podras ""Comprar"" munición expecial y botiquines al tolai de la base (pulsando enter encima del objeto)
+el contador gris muestra tu cantidad de balas explosivas, se consiguen comprandolas al panoli de la base
+(La partida se guarda automaticamente cuando pasa algo relevante, cuando mueres, pierdes todos tus puntos y tu municion explosiva)
+(no me seas cheater y no modifiques el XML (que pase de encriptar) donde se guardan los datos xD)
+
+PLAYER 1:
+A->Moverse a la ziquierda
+D->Moverse a la derecha
+J->Disparar
+K->Saltar
+L->Disparar municion explosiva (Solo disponible modo arcade)
+
+Player 2: (La camara solo sigue al player 1, asi que si eres player 2 y te alejas del otro te jodes que me da pereza hacer una camara regulable pa esta mierda)
+Z->Moverse a la ziquierda
+X->Moverse a la derecha
+N->Disparar
+M->Saltar
+
+(Esto es como los resident evil antiguos, mientras disparas no puedes moverte,
+ que en realidad es por que me daba pereza hacer la animacion de disparar y correr
+ al mismo tiempo pero bueno, si quieres avanzar y disparar al mismo tiempo,
+ salta y dispara mientras te mueves y solucionau)
+
+Si algo esta mal... pos no lo siento la verdad
+
+Juégalo con sonido que me costo mucho robar los efectos de sonido de otros juegos
+
+Todo lo artistico tiene copyright ajeno (presuntamente) asi que de puta madre
+
